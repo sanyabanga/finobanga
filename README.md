@@ -1,0 +1,2 @@
+# finobanga
+Finance telegram bot
